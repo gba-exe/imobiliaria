@@ -1,0 +1,6 @@
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/bin/Debug/imobiliaria.exe
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/bin/Debug/imobiliaria.pdb
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/obj/Debug/imobiliaria.csproj.AssemblyReference.cache
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/obj/Debug/imobiliaria.csproj.CoreCompileInputs.cache
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/obj/Debug/imobiliaria.exe
+/home/gba/computacao/maluquices/imobiliaria/imobiliaria/obj/Debug/imobiliaria.pdb
