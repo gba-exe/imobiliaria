@@ -47,12 +47,12 @@
         <Compile Include="src\funcionario\corretor\CorretorVendedor.cs" />
         <Compile Include="src\funcionario\Funcionario.cs" />
         <Compile Include="src\funcionario\gerente\Gerente.cs" />
+        <Compile Include="src\imobiliaria\Imobiliaria.cs" />
         <Compile Include="src\imovel\Imovel.cs" />
         <Compile Include="src\main\Program.cs" />
         <Compile Include="src\menu\Menu.cs" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="src\imobiliaria\" />
+        <Compile Include="src\menu\Display.cs" />
+        <Compile Include="src\menu\Logica.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
